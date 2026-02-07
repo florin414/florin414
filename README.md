@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I'm a Software Engineer
 
-<!--
-**florin414/florin414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer passionate about building **scalable, reliable systems** and designing clean architectures.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** Rust, Go, TypeScript, C# (.NET)
+- **Backend:** Distributed systems, APIs, microservices
+- **Cloud:** Cloud-native architectures, scalability, reliability
+- **System Design:** Performance, fault tolerance, clean abstractions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I care about
+- Writing **maintainable and efficient code**
+- Designing systems that scale and fail gracefully
+- Cloud infrastructure & modern backend patterns
+- Learning how things work under the hood
+
+### 📚 Currently exploring
+- Advanced system design patterns  
+- Cloud architectures & observability  
+- High-performance backend services
