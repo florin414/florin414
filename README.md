@@ -4,6 +4,3 @@ I'm a software engineer passionate about building **scalable, reliable systems**
 
 ### 🛠️ Tech Stack
 - **Languages:** Rust, Go, TypeScript, C# (.NET)
-- **Backend:** Distributed systems, APIs, microservices
-- **Cloud:** Cloud-native architectures, scalability, reliability
-- **System Design:** Performance, fault tolerance, clean abstractions
